@@ -1,8 +1,9 @@
 Comandos GIT
 ============
 
-git init - Inicia o versionamento de uma pasta nova
-git status - Mostra o status do diretório e seus arquivos com as pastas filhas
+git clone - baixa o projeto inteiro do repositório remoto.
+git init - Inicia o versionamento de uma pasta nova.
+git status - Mostra o status do diretório e seus arquivos com as pastas filhas.
 git add . - Adiciona todos os arquivos e pastas não versionados para serem monitorados.
 git push - Envia os arquivos já comitados para o repositório remoto.
 git pull - baixa os arquivos do repositório remoto.
